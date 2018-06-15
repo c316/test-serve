@@ -1,0 +1,5 @@
+{
+  "alias": "coffee.trashmountain.com",
+  "name": "coffee",
+  "dotenv": "./.env.prod"
+}
