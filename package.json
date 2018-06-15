@@ -10,7 +10,7 @@
   "scripts": {
     "now-build": "parcel build ./public/index.html -d ./build",
     "now-start": "serve --single ./build",
-    "now-deploy": "now && now alias && now remove coffee --safe",
+    "now-deploy": "now",
     "dev": "parcel ./public/index.html -d ./build --no-cache"
   },
   "engines": {
